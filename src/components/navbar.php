@@ -33,7 +33,7 @@
                     <a class="nav-link dropdown-toggle" href="#" id="dropdownId" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="true">Dropdown</a>
                     <div class="dropdown-menu" aria-labelledby="dropdownId">
                         <a class="dropdown-item" href="#">cat1</a>
-                        <a class="dropdown-item" href="#">cat2</a>
+                        <a class="dropdown-item" href="#">Action 2</a>
                     </div>
                 </li>
             </ul>
